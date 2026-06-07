@@ -42,51 +42,6 @@ EmployeeManagementSystem/
     └── Employee Table
 ````
 
-## ⚙️ Functionality
-
-### 1. Insert Details
-
-The system allows users to insert:
-
-* Department Information
-* Project Information
-* Employee Information
-
-Employee records are linked with corresponding departments and projects using foreign keys.
-
----
-
-### 2. Update Details
-
-Users can update the following employee details using the Employee ID:
-
-* Name
-* Email
-* Mobile Number
-* City
-* State
-* Experience
-
----
-
-### 3. View Details
-
-Displays all employee records stored in the database, including:
-
-* Employee ID
-* Employee Name
-* Email
-* Mobile Number
-* City
-* State
-* Date of Joining
-* Department ID
-* Project ID
-* Employment Status
-* Experience
-
----
-
 ## 🔄 Application Flow
 
 ```text

@@ -406,6 +406,3 @@ GitHub: [@nithing007](https://github.com/nithing007)
 ## License
 
 This project is currently available for learning and educational purposes.
-
-```
-```

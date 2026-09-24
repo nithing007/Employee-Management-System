@@ -215,6 +215,7 @@ public class ManagementJDBC {
         catch (Exception e) {
             System.out.println("Error : " + e.getMessage());
         }
+
         sc.close();
     }
 }
